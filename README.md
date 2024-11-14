@@ -1,4 +1,4 @@
-# ---GPN-INTELLIGENCE-CUP-Data-scientist-
+# GPN-INTELLIGENCE-CUP-Data-scientist
 
 Описание проекта
 
